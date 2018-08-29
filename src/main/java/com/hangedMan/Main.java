@@ -3,7 +3,11 @@ package com.hangedMan;
 public class Main {
 
     public static void main(String[] args) {
-Game game = new Game();
-game.startGame();
+        Game game = new Game();
+        game.startGame();
+
+
+
+
     }
 }
